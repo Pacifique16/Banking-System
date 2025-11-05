@@ -20,7 +20,10 @@ A Java Swing-based project that demonstrates **CRUD operations** with **PostgreS
 
 ## 👥 Author
 
-Pacifique HARERIMANA      ID: 26937 <BR> <br> <br>
+Pacifique HARERIMANA      ID: 26937
+ <BR> 
+📅 *Created for educational and demonstration purposes.*
+ <BR> <br> <br>
 
 # 🧠 Application Overview, Setup, and Screenshots
 
